@@ -1,8 +1,14 @@
-## Hamsa Hassan
+<div align="center">
 
-Software Engineering student · Aalborg University Copenhagen
+# HAMSA HASSAN
+
+### Software Engineering Student · Aalborg University Copenhagen
+
+*Building in Java. Testing what I make. Growing with every project.*
 
 [LinkedIn](https://www.linkedin.com/in/hamsa-hassan-85b3a3378/) · [hamsahassan2950@gmail.com](mailto:hamsahassan2950@gmail.com)
+
+</div>
 
 ---
 
