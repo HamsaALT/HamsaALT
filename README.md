@@ -38,9 +38,11 @@ I build software in Java and I care about whether it actually works for the peop
 - An admin mode builds the weekly shift plan and fairly fills any day with fewer than three workers
 - `C`
 
-**Own project** — *in progress*
-- A personal project in Java
-- `Java`
+**leakwatch** — *2026*
+- Command line tool that finds leaked passwords, API keys and tokens in code and in git history
+- Scans files and full commit history, reports in text, JSON and SARIF, and runs as a pre-commit hook and GitHub Action
+- `Python` `pytest` `GitHub Actions`
+- [Repository](https://github.com/HamsaALT/leakwatch)
 
 ---
 
