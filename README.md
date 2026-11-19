@@ -75,7 +75,7 @@ I build software in Java and C#, and I care about whether it actually works for 
 
 **Moodle Extension for Clubs and Events** — *SW2, 2026*
 - Moodle extension prototype where students find and join clubs and events, and club owners create and manage them
-- My part: restructured the backend, connected it to the database and debugged the Express server
+- My part: restructured the backend, connected it to the database and debugged the Express server, and built parts of the front end in HTML, CSS and JavaScript
 - `Node.js` `Express` `Supabase` `JavaScript` `HTML` `CSS`
 - [Repository](https://github.com/Ida166/Social-platform) · [My commits](https://github.com/Ida166/Social-platform/commits/main?author=HamsaALT)
 
