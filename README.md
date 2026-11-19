@@ -30,6 +30,11 @@ I build software in Java and C#, and I care about whether it actually works for 
 - `Python` `pytest` `GitHub Actions`
 - [Repository](https://github.com/HamsaALT/leakwatch)
 
+**a11ycheck** — *Java*
+- Finds common accessibility problems in web pages (missing alt text, unlabelled fields, low contrast) and links each one to the WCAG criterion it breaks
+- Text, JSON and HTML reports, with exit codes that work in a build pipeline
+- `Java` `jsoup` `JUnit`
+- [Repository](https://github.com/HamsaALT/a11ycheck)
 
 **SecureCheck** — *C# · .NET Framework, migrated to .NET 10*
 - A one-minute security check for a Windows PC: updates, antivirus, firewall, disk encryption and more, explained in plain language
@@ -42,7 +47,6 @@ I build software in Java and C#, and I care about whether it actually works for 
 - Example task: triaging bug reports by severity and component
 - `C#` `.NET 10` `xUnit` `Claude API` `Azure DevOps Pipelines`
 - [Repository](https://github.com/HamsaALT/promptproof)
-
 
 **Vikarbro** — *Java · Spring Boot · Angular*
 - Helps a care home manager find a substitute fast: checks qualifications, overlapping shifts, 11 hours of rest and weekly hours, and explains why someone can't take a shift
@@ -61,7 +65,6 @@ I build software in Java and C#, and I care about whether it actually works for 
 - Built to meet WCAG 2.2 AA and tested for it with axe-core, contrast checks and keyboard tests
 - `C#` `ASP.NET Core` `PostgreSQL` `React` `TypeScript` `Keycloak` `Docker` `Azure DevOps Pipelines`
 - [Repository](https://github.com/HamsaALT/barrierefri)
-
 
 #### University projects
 
