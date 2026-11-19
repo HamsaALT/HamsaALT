@@ -30,11 +30,6 @@ I build software in Java and C#, and I care about whether it actually works for 
 - `Python` `pytest` `GitHub Actions`
 - [Repository](https://github.com/HamsaALT/leakwatch)
 
-**a11ycheck** — *Java*
-- Finds common accessibility problems in web pages (missing alt text, unlabelled fields, low contrast) and links each one to the WCAG criterion it breaks
-- Text, JSON and HTML reports, with exit codes that work in a build pipeline
-- `Java` `jsoup` `JUnit`
-- [Repository](https://github.com/HamsaALT/a11ycheck)
 
 **SecureCheck** — *C# · .NET Framework, migrated to .NET 10*
 - A one-minute security check for a Windows PC: updates, antivirus, firewall, disk encryption and more, explained in plain language
@@ -48,11 +43,6 @@ I build software in Java and C#, and I care about whether it actually works for 
 - `C#` `.NET 10` `xUnit` `Claude API` `Azure DevOps Pipelines`
 - [Repository](https://github.com/HamsaALT/promptproof)
 
-**ShiftSwap** — *Java · Spring Boot · Angular*
-- Swap shifts with colleagues without the group chat chaos: an employee offers a shift, a colleague takes it, the manager approves
-- REST API, PostgreSQL with migrations, Angular front end, tests and a Power BI report
-- `Java` `Spring Boot` `PostgreSQL` `Angular` `TypeScript` `JUnit` `Power BI`
-- [Repository](https://github.com/HamsaALT/shiftswap)
 
 **Vikarbro** — *Java · Spring Boot · Angular*
 - Helps a care home manager find a substitute fast: checks qualifications, overlapping shifts, 11 hours of rest and weekly hours, and explains why someone can't take a shift
@@ -72,10 +62,6 @@ I build software in Java and C#, and I care about whether it actually works for 
 - `C#` `ASP.NET Core` `PostgreSQL` `React` `TypeScript` `Keycloak` `Docker` `Azure DevOps Pipelines`
 - [Repository](https://github.com/HamsaALT/barrierefri)
 
-**GroupSlot** — *C# · .NET 10 · React*
-- Finds a time when a whole study group is free from uploaded `.ics` timetables, and shows when only one person is missing
-- `C#` `ASP.NET Core` `EF Core` `React` `TypeScript` `Azure Boards`
-- [Repository](https://github.com/HamsaALT/groupslot)
 
 #### University projects
 
