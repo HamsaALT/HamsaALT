@@ -14,7 +14,7 @@
 
 ### PROFILE
 
-I build software in Java and C#, and I care about whether it actually works for the people using it. At AAU I have taken part in every phase of three semester projects, from talking to users and writing requirements to designing in Figma, coding and testing. On my own time I build tools around quality and security: finding leaked secrets, checking accessibility, and testing what I write.
+I'm a software engineering student who builds in Java, C#, Python and TypeScript, and I care about whether software actually works for the people using it. At AAU I have taken part in every phase of three semester projects, from talking to users and writing requirements to designing in Figma, coding and testing. On my own time I build tools around quality and security: a scanner for leaked secrets in git history, an accessibility checker, a Windows security check, and web apps tested for WCAG compliance.
 
 **Looking for:** a student job in QA, software testing or IT security in Copenhagen or elsewhere on Zealand.
 
